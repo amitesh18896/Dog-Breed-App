@@ -12,5 +12,5 @@
 https://github.com/amitesh18896/Dog-Breed-App/blob/main/Dog-Breed-App-main/Dog-Breed-App-main/home.png
 
 ## Details of Dog
-![clone images](/details.png)
+https://github.com/amitesh18896/Dog-Breed-App/blob/main/Dog-Breed-App-main/Dog-Breed-App-main/details.png
 
